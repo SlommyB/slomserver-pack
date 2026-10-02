@@ -408,7 +408,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunky-neoforge-1.4.23.pw.toml"
-hash = "81c2ee0d3ff77bf969b10e850478054b9a5e4feb50098dbe4baadfbe48b1e955"
+hash = "ab5c54e64fd079b2c7f2097344693e7052487d0eb3219dc72d7573a4909d37b7"
 metafile = true
 
 [[files]]
@@ -443,7 +443,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons-3.3.3-1.21.1-fabric-neoforge.pw.toml"
-hash = "a148a3a7a1326c70242dbd83ba74ca847d3ad10b50246eec16e3d9835b9c02ab"
+hash = "f5dff7c1e6f2df868772a5a5cb10ea41c84385e2f249b485153db619ec2594ed"
 metafile = true
 
 [[files]]
