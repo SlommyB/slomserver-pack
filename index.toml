@@ -407,11 +407,6 @@ hash = "522253acad963255763f07884d89c1caf298549ea60fdc327d1224adbe42f765"
 metafile = true
 
 [[files]]
-file = "mods/chunky-neoforge-1.4.23.pw.toml"
-hash = "ab5c54e64fd079b2c7f2097344693e7052487d0eb3219dc72d7573a4909d37b7"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config-15.0.140-neoforge.pw.toml"
 hash = "17c017cf64f1c71188678cdc087023f9dc3164841905b0babf98db59bbc72d50"
 metafile = true
