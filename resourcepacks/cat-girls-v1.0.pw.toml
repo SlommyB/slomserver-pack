@@ -1,8 +1,0 @@
-name = "Cat Girls v1.0"
-filename = "Cat Girls v1.0.zip"
-side = "client"
-
-[download]
-url = "https://cdn.modrinth.com/data/eIP3d9ve/versions/KOTBUZr8/Cat%20Girls%20v1.0.zip"
-hash-format = "sha512"
-hash = "7c108cbfea3c956c0dba7e891002e48c3f9a3e8df0908735a9a6e3e32a77169179296f56ae1532fdd61ea2b2cecdbaf8d09e4b7405e3221fda24361ce02ea87a"

@@ -613,11 +613,6 @@ hash = "ba251c943a9df103a9484fc89df31d6d66dda409e17b96250fd368423fa36a9d"
 metafile = true
 
 [[files]]
-file = "mods/ysm-2.6.5-neoforge-mc1.21.1-release.pw.toml"
-hash = "5a83cb636247dbfab6d876b043215f7364872859c5a5bb9da3353e19ebaad43c"
-metafile = true
-
-[[files]]
 file = "mods/yungsapi-1.21.1-neoforge-5.1.9.pw.toml"
 hash = "cde5feec70b2d3e37fbb9f333db632602a300b83bde368f070ce477795541619"
 metafile = true
@@ -652,28 +647,13 @@ hash = "ba951f742e0b326260f0a123bb2fb1280c0109a93342aa402d7709c3d1c7a937"
 metafile = true
 
 [[files]]
-file = "resourcepacks/betty-witch-v1.0.pw.toml"
-hash = "52f7de340b97efe9667dcd75287ee4388ee821957a20b237f0ad374e450eb754"
-metafile = true
-
-[[files]]
 file = "resourcepacks/bit-better-lantern.pw.toml"
 hash = "c34568522330350be0ba762e564cb99e70415e8626d8b49da772bae0e3ba8855"
 metafile = true
 
 [[files]]
-file = "resourcepacks/cat-girls-v1.0.pw.toml"
-hash = "1bb0e8c5b5ae4c5f22d6e8882aeac5ffc075cef75d1d310025c072f244edbd2c"
-metafile = true
-
-[[files]]
 file = "resourcepacks/emissive-ores-labpbr.pw.toml"
 hash = "71d3750a8d2a38c905e69a4818a25eefbc05f2b4954dc20274df2461c3465824"
-metafile = true
-
-[[files]]
-file = "resourcepacks/enderwoman_v1.pw.toml"
-hash = "d9aa4ee6149cbf10bd4c6bdd9f089c8865116a908fb75292243642042686122d"
 metafile = true
 
 [[files]]
