@@ -1,2 +1,15 @@
-resourcePacks:["vanilla", "fabric", "mod_resources", "file/Vanilla-labPBR-1-3-2.zip", "file/Emissive Ores labPBR.zip", "file/Overlays 26.3§7.zip", "file/Fast Better Grass.zip", "file/Truly Connected.zip", "file/Bit Better Lantern.zip", "file/mikapika-s-3D-mushrooms-v1.2.1.zip", "file/§6Furnaces§8-§6Reimagined§0_§8[v1.3]§0.zip", "file/armory-conglomery-v2.2.zip", "file/FreshAnimations_v1.10.4.zip", "file/golems-refreshed-fa-v2.1.zip", "file/Enderwoman_v1.zip", "file/Cat Girls v1.0.zip", "file/Betty Witch v1.0.zip", "file/§6Immersive§8_§6Interfaces§8.zip"]
-incompatibleResourcePacks:["file/Vanilla-labPBR-1-3-2.zip", "file/Emissive Ores labPBR.zip", "file/Overlays 26.3§7.zip", "file/Fast Better Grass.zip", "file/Truly Connected.zip", "file/Bit Better Lantern.zip", "file/mikapika-s-3D-mushrooms-v1.2.1.zip", "file/§6Furnaces§8-§6Reimagined§0_§8[v1.3]§0.zip", "file/armory-conglomery-v2.2.zip", "file/FreshAnimations_v1.10.4.zip", "file/golems-refreshed-fa-v2.1.zip", "file/Enderwoman_v1.zip", "file/Cat Girls v1.0.zip", "file/Betty Witch v1.0.zip", "file/§6Immersive§8_§6Interfaces§8.zip"]
+version:3955
+resourcePacks:["vanilla","fabric","mod_resources","file/Vanilla-labPBR-1-3-2.zip","file/Emissive Ores labPBR.zip","file/Fast Better Grass.zip","file/Truly Connected.zip","file/Bit Better Lantern.zip","file/mikapika-s-3D-mushrooms-v1.2.1.zip","file/§6Furnaces§8-§6Reimagined§0_§8[v1.3]§0.zip","file/armory-conglomery-v2.2.zip","file/FreshAnimations_v1.10.4.zip","file/golems-refreshed-fa-v2.1.zip","file/Enderwoman_v1.zip","file/Cat Girls v1.0.zip","file/Betty Witch v1.0.zip","file/§6Immersive§8_§6Interfaces§8.zip"]
+incompatibleResourcePacks:["file/Vanilla-labPBR-1-3-2.zip","file/Emissive Ores labPBR.zip","file/Fast Better Grass.zip","file/Truly Connected.zip","file/Bit Better Lantern.zip","file/mikapika-s-3D-mushrooms-v1.2.1.zip","file/§6Furnaces§8-§6Reimagined§0_§8[v1.3]§0.zip","file/armory-conglomery-v2.2.zip","file/FreshAnimations_v1.10.4.zip","file/golems-refreshed-fa-v2.1.zip","file/Enderwoman_v1.zip","file/Cat Girls v1.0.zip","file/Betty Witch v1.0.zip","file/§6Immersive§8_§6Interfaces§8.zip"]
+key_iris.keybind.reload:key.keyboard.unknown
+key_keybind.name.EMOTE_WHEEL:key.keyboard.unknown
+key_key.dragon_fireAttack:key.keyboard.n
+key_key.dragon_strike:key.keyboard.j
+key_key.loadToolbarActivator:key.keyboard.unknown
+key_keybind.name.MENU_ACCESS:key.keyboard.unknown
+key_key.simplytooltips.cycle_tab:key.keyboard.unknown
+key_key.simplytooltips.capture_gif:key.keyboard.unknown
+key_keybind.name.CHAT_PEEK:key.keyboard.unknown
+key_key.yes_steve_model.animation_roulette.desc:key.keyboard.unknown
+key_keybind.name.COSMETIC_STUDIO:key.keyboard.unknown
+key_keybind.name.ESSENTIAL_FRIENDS:key.keyboard.unknown

@@ -634,7 +634,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "fd3d60595811395395926c81bc6837f4e9e201415b7892f6885fd6a63c9e7710"
+hash = "4eef6a1c6cc6c5ea57deb4ae10dcf6c1fe73016418e2c4acbee4253faf266117"
 preserve = true
 
 [[files]]
@@ -699,11 +699,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/mikapika-s-3d-mushrooms-v1.2.1.pw.toml"
 hash = "f1a4344ea3515e8911a4637b1bd243d7995aa2919f667b9aaa61caa2ef4cd3e6"
-metafile = true
-
-[[files]]
-file = "resourcepacks/overlays-26.3-7.pw.toml"
-hash = "e6aca77559e35983c4184a3478fce8993550a01f614c79c208365cdbecad45d2"
 metafile = true
 
 [[files]]
