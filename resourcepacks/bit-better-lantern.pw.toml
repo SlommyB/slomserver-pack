@@ -1,0 +1,8 @@
+name = "Bit Better Lantern"
+filename = "Bit Better Lantern.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ihhlwsvo/versions/8rHk82H4/Bit%20Better%20Lantern.zip"
+hash-format = "sha512"
+hash = "ed1a5df5a6b79e3ee4ffc77c273eb8aa0a5cf0780530cf08a1eb267cdacafc09b570e9af5495a1b7f585bb603505fc4aa87b3246d313d39d1df780f4818f6bbc"

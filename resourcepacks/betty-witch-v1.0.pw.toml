@@ -1,0 +1,8 @@
+name = "Betty Witch v1.0"
+filename = "Betty Witch v1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3XQfUTYr/versions/p03CEVtD/Betty%20Witch%20v1.0.zip"
+hash-format = "sha512"
+hash = "5bacecc1fddbd999eaa18860e94ebd701fe88926786df7bd69c4a8bd8edd16357cae3838a0953e75e0eb142382cb4a5f3c2b356efafa7b3295b8e46af19dd8e8"

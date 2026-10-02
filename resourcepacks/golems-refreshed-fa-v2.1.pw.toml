@@ -1,0 +1,8 @@
+name = "golems-refreshed-fa-v2.1"
+filename = "golems-refreshed-fa-v2.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/hrmO5YH3/versions/x198Pgd4/golems-refreshed-fa-v2.1.zip"
+hash-format = "sha512"
+hash = "e65b059c320ac4b7b89ab17d2d5967d58fe9d66e00105859fda50c647a6224f6b5a383fae6a8999bae1b3300a7f33a9ce827abe1f4bf2eeabec6a017e52ee372"

@@ -1,0 +1,8 @@
+name = "easy_mob_farm-neoforge-1.21.1-10.13.0"
+filename = "easy_mob_farm-neoforge-1.21.1-10.13.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/crxsDbEo/versions/qNtvTLD6/easy_mob_farm-neoforge-1.21.1-10.13.0.jar"
+hash-format = "sha512"
+hash = "19230247fcee9cd398f4c9fd9f9ccab9750a499dfd31eb727677b4dbc1587a8a1b7e347e93bba13f3a44cebdbf334ba5294fb95390a39e5b2e5cdb75d7d8dd78"

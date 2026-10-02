@@ -1,0 +1,8 @@
+name = "Enderwoman_v1"
+filename = "Enderwoman_v1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/LHtkoOr5/versions/K0GsfpYS/Enderwoman_v1.zip"
+hash-format = "sha512"
+hash = "70a680272226e58e6432c9fec6c3f7fa52b7098c42e25afaac50857a83f058727237e597a3a8ad7951002744fb2338fb57341a1edf1e6a58b5e599cd29acbd65"
