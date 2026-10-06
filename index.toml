@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "b1a5508b5f2897fa3f8fd867d786cc9e04a50120735791773bba6793c9ddf98c"
+hash = "e28395b248eacf0dd0c7087077d3e6882cdb8ec56413112678826b65d8a160a9"
 preserve = true
 
 [[files]]
@@ -433,7 +433,7 @@ metafile = true
 
 [[files]]
 file = "mods/connector-2.0.0-beta.17-1.21.1-full.pw.toml"
-hash = "0e764d07fb834003d31bf4f21eba2ce7138ac2b481edb568d16f03af0ebce4e2"
+hash = "25095c9bd05ff2701fe63fc90b03d20423f82f7f67a3c096311761ee81b7aff7"
 metafile = true
 
 [[files]]
@@ -493,7 +493,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api-0.116.15-2.3.5-1.21.1.pw.toml"
-hash = "f7fa8ec092f1f50e407208f8e1a8214ad2c41cc0ec4377f107a9f0ea562d7c14"
+hash = "e5b3fe593403c1cc468c0fecdcf220cb5cb46626977fbb85d4cf6d7ed3707469"
 metafile = true
 
 [[files]]
@@ -511,7 +511,7 @@ metafile = true
 
 [[files]]
 file = "mods/gbf-1.21.1-1.0.2.pw.toml"
-hash = "6ab41ca7bde51fd8154c680d6539f42658a498cd12a48f637ea843d21c1f1e6c"
+hash = "2c3d7cb4380eebe4d97c17f43b6a43f8d45b51147354eae4bbbb50bd298f6dfa"
 metafile = true
 
 [[files]]
@@ -708,7 +708,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.9.3.zip.txt"
-hash = "f3a53f664817c583bb37442a05d6220adf6bab239f92acb24d4f86ae70838f15"
+hash = "185d741ad4218515d8d12be14f02365ba6d76946a8b8cd8d0694565aba10541a"
 preserve = true
 
 [[files]]

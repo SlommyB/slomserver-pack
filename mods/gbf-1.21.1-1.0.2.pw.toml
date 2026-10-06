@@ -1,6 +1,6 @@
 name = "gbf-1.21.1-1.0.2"
 filename = "gbf-1.21.1-1.0.2.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/CZyWdBUo/versions/cqGqtGak/gbf-1.21.1-1.0.2.jar"
