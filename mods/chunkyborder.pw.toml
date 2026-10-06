@@ -1,6 +1,6 @@
 filename = 'ChunkyBorder-1.2.18.jar'
 name = 'Chunky Border'
-side = 'both'
+side = 'server'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
