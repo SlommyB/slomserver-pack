@@ -6,3 +6,8 @@ side = "client"
 url = "https://cdn.modrinth.com/data/uJC1fwNH/versions/SBhzosuy/armory-conglomery-v2.2.zip"
 hash-format = "sha512"
 hash = "f306b71f132db9f33e587818ee8f73fdd943c61c1516a1027a6e52a5d9c63054152bc9645622d036fa37717b7b2fb0f7ac73432a40af7d6575bbac567a4c3808"
+
+[option]
+optional = true
+default = true
+description = "3D and retextured armor and weapons. Needs EMF and ETF for some models."

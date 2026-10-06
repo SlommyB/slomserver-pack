@@ -6,3 +6,8 @@ side = "client"
 url = "https://cdn.modrinth.com/data/hsYNjERq/versions/Q3ALB5HA/%C2%A76Furnaces%C2%A78-%C2%A76Reimagined%C2%A70_%C2%A78%5Bv1.3%5D%C2%A70.zip"
 hash-format = "sha512"
 hash = "04a49a5813b400dc8b7395f2e106c4ea3a7ee411577d518c65ee5efadb77187bbad9955c83c4c09545cba4f3403a8f167968c90ca7616cac8310a70e3aa15afd"
+
+[option]
+optional = true
+default = true
+description = "Re-textured furnaces."

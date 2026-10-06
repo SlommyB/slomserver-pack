@@ -6,3 +6,8 @@ side = "client"
 url = "https://cdn.modrinth.com/data/ycWy6wxR/versions/LEXIixHc/Emissive%20Ores%20labPBR.zip"
 hash-format = "sha512"
 hash = "06e9fc2056196bb9f45801c51c649bd8c3fa3d788b41e802ec50ae3e9c44b330bb07799fdce4d9f71f27f05cffa0c985ce4b0c35a331cfb5f1d9405cfe3da2e9"
+
+[option]
+optional = true
+default = true
+description = "Glowing ores. Needs Iris and Complementary."

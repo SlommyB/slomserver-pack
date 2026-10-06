@@ -6,3 +6,8 @@ side = "client"
 url = "https://cdn.modrinth.com/data/bA5jCz7D/versions/xw0qKMy0/mikapika-s-3D-mushrooms-v1.2.1.zip"
 hash-format = "sha512"
 hash = "9c1db07febb206f9fc128fa7a4aca4fa2725752c5fb54cfbdbf58def7141e696f178161794bec82399b1568c970b68b20b33f189527a012e663664dc7c80d95f"
+
+[option]
+optional = true
+default = true
+description = "3D mushrooms."

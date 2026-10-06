@@ -31,3 +31,8 @@ type = 'INCOMPATIBLE'
 [[x-prismlauncher-dependencies]]
 addonId = 'V5ujR2yw'
 type = 'INCOMPATIBLE'
+
+[option]
+optional = true
+default = true
+description = 'Over-the-shoulder third-person camera.'

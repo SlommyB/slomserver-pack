@@ -6,3 +6,8 @@ side = "client"
 url = "https://cdn.modrinth.com/data/yHuEgIO1/versions/gxO28PY3/Truly%20Connected.zip"
 hash-format = "sha512"
 hash = "c56e9658c224a48ea582f28689259f878e6145aebd585ac931162a9abb4bdb6a75ad7792db9ca5d1e383ac085592dbadedc93446a10c825eb105dccacff6a4b5"
+
+[option]
+optional = true
+default = true
+description = "Connected glass and blocks. Needs Continuity."
