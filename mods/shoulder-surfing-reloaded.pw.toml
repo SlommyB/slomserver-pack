@@ -1,23 +1,23 @@
-filename = 'ShoulderSurfing-NeoForge-1.21.1-5.2.0.jar'
+filename = 'ShoulderSurfing-NeoForge-1.21.1-5.0.10.jar'
 name = 'Shoulder Surfing Reloaded'
 side = 'client'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.21.1-5.2.0+neoforge'
+x-prismlauncher-version-number = '1.21.1-5.0.10+neoforge'
 
 [download]
-hash = '4497d2f8a992d6d8985b1a6fa7018158a877521052302682866f89171d14eafa7c6b75d92c6e08531003476bc292f71c67c7e4f34b8c1a6864074a3b0dcd7e75'
+hash = 'd07380c59c9f4f20484566a85ddb130848b0128e8c75818274eee51419d716035d87e293e5c9be6688a04f69b32cf753597200f6801e14925d72d72fc03f1680'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/kepjj2sy/versions/woekHsje/ShoulderSurfing-NeoForge-1.21.1-5.2.0.jar'
+url = 'https://cdn.modrinth.com/data/kepjj2sy/versions/uU3wk3Wt/ShoulderSurfing-NeoForge-1.21.1-5.0.10.jar'
 
 [update.modrinth]
 mod-id = 'kepjj2sy'
-version = 'woekHsje'
+version = 'uU3wk3Wt'
 
 [[x-prismlauncher-dependencies]]
-addonId = 'GaaqfxoS'
+addonId = 'G1s2WpNo'
 type = 'INCOMPATIBLE'
 
 [[x-prismlauncher-dependencies]]
@@ -25,5 +25,5 @@ addonId = 'Q5UvqqQd'
 type = 'INCOMPATIBLE'
 
 [[x-prismlauncher-dependencies]]
-addonId = 'G1s2WpNo'
+addonId = 'GaaqfxoS'
 type = 'INCOMPATIBLE'
