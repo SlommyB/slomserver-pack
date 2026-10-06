@@ -594,11 +594,6 @@ hash = "dfaa329420b56291da2089d1a1664f2bb8c3dac3c672f726939fefc03327f4a7"
 metafile = true
 
 [[files]]
-file = "mods/shoulder-surfing-ultimine.pw.toml"
-hash = "d7e45fcb135e4b01e58c83819d9302309ec1822be692ec11dc182b96d58cefd9"
-metafile = true
-
-[[files]]
 file = "mods/simplyswords-neoforge-1.70.2-1.21.1.pw.toml"
 hash = "6e2c8c0cc20a3ac24c5dd42c4b13968ecd303d6b3c770ddd86907cc72208aeac"
 metafile = true
