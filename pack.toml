@@ -1,12 +1,12 @@
 name = "SlomServer"
 author = "Jyzzrd"
-version = "1.2.1"
+version = "1.2.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c2c4f557d8cf824248c853dfeebe5cfed618e37951646bf74702999712d2d1b4"
+hash = "bca4f412ee08b791d7f7baab547bdd4d6bc834d1c56b0b0395a839e59f66788b"
 
 [versions]
 minecraft = "1.21.1"
