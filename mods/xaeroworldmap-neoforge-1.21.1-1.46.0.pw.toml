@@ -1,6 +1,6 @@
 name = "xaeroworldmap-neoforge-1.21.1-1.46.0"
 filename = "xaeroworldmap-neoforge-1.21.1-1.46.0.jar"
-side = "client"
+side = "Both"
 
 [download]
 url = "https://cdn.modrinth.com/data/NcUtCpym/versions/9Ckiihkz/xaeroworldmap-neoforge-1.21.1-1.46.0.jar"

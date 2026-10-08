@@ -644,12 +644,12 @@ hash = "2f98db9e0fed13aad87340beaff185e95c9d56ee27cdf1d111346b91a5725a69"
 
 [[files]]
 file = "mods/xaerominimap-neoforge-1.21.1-26.5.0.pw.toml"
-hash = "c7028a07227e121b0686ea83e60a1e6c31f67b5cf6e6226ea692c7ced7163f90"
+hash = "cc0a4304c7ab63534486d427919317e9c61454d5fb624ea21fc7291705714b1f"
 metafile = true
 
 [[files]]
 file = "mods/xaeroworldmap-neoforge-1.21.1-1.46.0.pw.toml"
-hash = "98827f6f2d38191f72990e84f35a61877a49596978d8e031cb4acdab391646b2"
+hash = "017e6baf492db32ae3700e10453ae4c491c85b94c2100641a4d97cf660820672"
 metafile = true
 
 [[files]]

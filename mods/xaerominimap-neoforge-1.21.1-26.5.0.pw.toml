@@ -1,6 +1,6 @@
 name = "xaerominimap-neoforge-1.21.1-26.5.0"
 filename = "xaerominimap-neoforge-1.21.1-26.5.0.jar"
-side = "client"
+side = "Both"
 
 [download]
 url = "https://cdn.modrinth.com/data/1bokaNcj/versions/Q1tuMQBB/xaerominimap-neoforge-1.21.1-26.5.0.jar"
