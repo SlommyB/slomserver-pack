@@ -609,8 +609,23 @@ hash = "dcf975dd77a193096418dcbb49d67fd037cc4ac297f9a04b2588aa50a86ed856"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "ac95daa729bee167c5b835ca20c1f80c628534dca55ff90118c1011783773d8b"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "3ffbb5037579bc65098f4ff37f4879ae9f505bd89f7552937120f3b186480d22"
+metafile = true
+
+[[files]]
 file = "mods/spark-1.10.124-neoforge.pw.toml"
 hash = "290364b99a71a3fcb8a7d4d5878223d669fa15c048b269527e2ad6b1e022e20a"
+metafile = true
+
+[[files]]
+file = "mods/storagedrawers.pw.toml"
+hash = "5c5df97d91c0f2c2d2dc181ac326408cc70d79d3c988e6f7d42b1013d50d2ab7"
 metafile = true
 
 [[files]]
